@@ -1,0 +1,20 @@
+{
+  "name": "deploydemo",
+  "version": "1.0.0",
+  "description": "a basic deploy learning",
+  "keywords": [
+    "node"
+  ],
+  "license": "ISC",
+  "author": "Prashant Kumar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
